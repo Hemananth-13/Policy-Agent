@@ -1,0 +1,18 @@
+═══════════════════════════════════════════════════════════
+   INSURANCE POLICY AGENT - SAMPLE TEST INPUTS
+   Copy each input below as a single line into the terminal
+═══════════════════════════════════════════════════════════
+
+--------------------------------------------------------------
+TEST CASE 1 - STANDARD REQUEST
+--------------------------------------------------------------
+
+Generate a health insurance policy for a 30-year-old male, non-smoker, no pre-existing conditions, working as a software engineer, looking for individual coverage with dental and vision add-ons.
+
+--------------------------------------------------------------
+TEST CASE 2 - COMPLEX / AMBIGUOUS REQUEST
+--------------------------------------------------------------
+
+I need an insurance policy for a 45-year-old female who smokes occasionally, has been diagnosed with type 2 diabetes for 3 years and takes metformin daily, and runs a small home-based bakery business with two part-time employees and commercial-grade kitchen equipment worth around $15,000. She owns her home valued at approximately $320,000 with a mortgage, has a 16-year-old dependent child, and her husband passed away two years ago. She wants health coverage for herself including dental and vision, property coverage for both her home and the business equipment inside it, and is unsure whether to add life insurance given her dependent child but is worried about the higher premium. She has not decided on a deductible amount, does not know whether to go with a PPO or HMO, and is open to suggestions on riders. Her annual income from the bakery is roughly $48,000 and she has no other insurance currently.
+
+═══════════════════════════════════════════════════════════
